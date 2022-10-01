@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello World !
+## I'm André Oliveira, Systems Development student and seek to become a fullstack developer specializing in frontend. 🚀
 
-<!--
-**andre0liver/andre0liver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Atualmente estou em transição da carreira, da área Química/Industrial para a área de tecnologia.
+- 🌱 No .
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Ferramentas e Tecnologias
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+          
+
+          
