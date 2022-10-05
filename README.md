@@ -1,14 +1,14 @@
 
 
 ### Hello World !
-## Olá, eu sou o André, um desenvolvedor fullstack com foco em backend.🚀
+## Olá, eu sou o André, um desenvolvedor Fullstack Javascript.🚀
 <hr>
 
 ### 👨🏻‍💻 About Me
 <hr>
 
 <ul>
-      <li>🚀 Sou graduando em Desenvolvimento de Sistemas e tenho como foco principal da minha carreira as áreas de desenvolvimento backend. Utilizo a stack Javascript (React, ReactNative & Node). </li> 
+      <li>🚀 Sou graduando em Desenvolvimento de Sistemas e tenho como foco principal da minha carreira as áreas de desenvolvimento Fullstack. Utilizo a stack Javascript (React, ReactNative & Node). </li> 
       <li> </li> 
       <li> </li> 
       <li> </li> 
