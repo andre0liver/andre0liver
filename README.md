@@ -6,7 +6,7 @@ Se você é um profissional da área ou recrutador, sinta-se à vontade para ent
 
 Vamos juntos explorar o mundo dos dados e transformá-los em insights valiosos!
 
-Hello! My name is André, and I am a data analysis enthusiast eager to find opportunities to grow in this fascinating field. Currently, I am striving to enhance my skills as a Data Analyst, utilizing my proficiency in Excel, Power BI, Python and SQL to derive valuable insights from complex datasets. I am keen to collaborate on challenging projects, learn from experienced professionals, and apply my knowledge to solve problems.
+<h3>Hello! My name is André, and I am a data analysis enthusiast eager to find opportunities to grow in this fascinating field.</h3> Currently, I am striving to enhance my skills as a Data Analyst, utilizing my proficiency in Excel, Power BI, Python and SQL to derive valuable insights from complex datasets. I am keen to collaborate on challenging projects, learn from experienced professionals, and apply my knowledge to solve problems.
 
 In this GitHub profile, you will find some of my projects, exercises, and studies related to data analysis, showcasing my dedication to improving my skills and my passion for exploring information through data.
 
